@@ -396,3 +396,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# cypress
+.DS_Store
+node_modules
+dist
+
+cypress/videos
+cypress/screenshots

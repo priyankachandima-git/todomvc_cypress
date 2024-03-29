@@ -1,0 +1,22 @@
+{
+  "name": "todomvc_cypress",
+  "version": "1.0.0",
+  "description": "Automate todo mvc app with Cypress.io and JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyankachandima-git/todomvc_cypress.git"
+  },
+  "author": "Priyanka Chandima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyankachandima-git/todomvc_cypress/issues"
+  },
+  "homepage": "https://github.com/priyankachandima-git/todomvc_cypress#readme",
+  "dependencies": {
+    "cypress": "^13.7.1"
+  }
+}

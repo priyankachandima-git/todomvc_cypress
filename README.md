@@ -31,7 +31,7 @@ To get started with the project, follow these steps:
    npm run cy:run
 
 ## Author
-([https://github.com/your-username](https://github.com/priyankachandima-git/todomvc_cypress.git))
+([Priyanka Chandima](https://github.com/priyankachandima-git/todomvc_cypress.git))
 
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
